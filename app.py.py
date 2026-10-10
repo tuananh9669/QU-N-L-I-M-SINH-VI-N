@@ -88,7 +88,7 @@ st.pyplot(fig) # Lệnh của Streamlit để in đồ thị ra web
 st.markdown("<br><hr>", unsafe_allow_html=True)
 st.markdown(
     "<p style='text-align: center; font-size: 12px; color: gray;'>"
-    "Người tạo: Lê Công Tuấn Anh - MSSV: [Nhập MSSV của bạn vào đây]"
+    "Người tạo: Lê Công Tuấn Anh - MSSV: [033208005274]"
     "</p>", 
     unsafe_allow_html=True
 )
